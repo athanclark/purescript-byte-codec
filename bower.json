@@ -12,7 +12,9 @@
     "url": "git://github.com/athanclark/purescript-byte-codec.git"
   },
   "dependencies": {
-    "purescript-prelude": "^4.1.0"
+    "purescript-prelude": "^4.1.0",
+    "purescript-typelevel": "^4.0.0",
+    "purescript-unsafe-coerce": "^4.0.0"
   },
   "devDependencies": {
     "purescript-psci-support": "^4.0.0"
