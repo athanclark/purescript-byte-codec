@@ -87,3 +87,7 @@ byte i =
 
 
 -- caste from 1 -> 0?
+
+
+-- do bytes have endianess?
+getBinary :: Int -> Vec D8 Boolean
