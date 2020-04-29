@@ -9,10 +9,9 @@
   "license": "BSD-3-Clause",
   "repository": {
     "type": "git",
-    "url": "git://github.com/athanclark/purescript-byte-codec.git"
+    "url": "https://github.com/athanclark/purescript-byte-codec.git"
   },
   "dependencies": {
-    "purescript-prelude": "^4.1.0",
     "purescript-sized-vectors": "^3.1.0",
     "purescript-integers": "^4.0.0",
     "purescript-generics-rep": "^6.1.0"
